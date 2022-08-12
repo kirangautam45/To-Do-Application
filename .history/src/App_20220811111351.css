@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  background-color:rgb(196, 207, 205)
+}
+.To-body{
+border: rgb(60, 61, 61);
+min-width: 150px;
+min-height: 150px auto;
+align-items: center;
+background-color:aliceblue
+background-color: #fff;
+padding: 30px;
+border: 1px #ccc;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+border-style: solid solid none;
+
+}
+

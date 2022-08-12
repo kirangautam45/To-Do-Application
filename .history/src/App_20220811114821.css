@@ -1,0 +1,27 @@
+.App {
+  background-color: #ccc;
+  width: 500px;
+margin: 30px auto;
+}
+.Header{
+  text-align: center;
+  color:rgb(49, 48, 48);
+}
+.To_Body{
+min-width: 500px;
+min-height: 500px ;
+justify-content: center;
+background-color: #ffffff;
+padding: 30px;
+border: 1px #ccc;
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+border-style: solid solid none;
+}
+.Input_text{
+  outline: none;
+  width: 100px;
+  padding: ;
+}
+

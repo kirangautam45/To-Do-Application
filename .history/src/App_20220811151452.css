@@ -1,0 +1,68 @@
+.Body {
+  background-color: #ccc;
+ width: 500px;
+ margin: 10px auto; 
+display: 'flex';
+
+}
+.Header{
+  text-align: center;
+  color:rgb(49, 48, 48);
+}
+.To_Body{
+min-height: fit-content;
+justify-content: center;
+background-color: #ebe7e7;
+padding: 30px;
+border: 1px rgb(234, 228, 228);
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+border-style: solid solid none;
+}
+.Input_text{
+  outline: none;
+  width: 100%;
+  padding: 7px;
+  border: 1px solid  rgb(192, 191, 191);
+  margin-bottom: 2%;
+}
+.Icon{
+  height: auto;
+  flex-direction: row;
+justify-content: space-between;
+border: 1px solid #ddd;
+background-color: #bfb7c6;
+padding: 12px 20px;
+text-decoration: line-through;
+
+}
+.Icon_left{
+text-align: left;
+}
+.Icon_right{
+text-align: right;
+
+}
+.Icon_button {
+  height:auto;
+  width: auto;
+  align-items: left;
+  color: rgb(201, 42, 42);
+  font-size: 15px;
+  margin-right: 5px;
+  cursor: pointer;
+  height: 1;
+  padding: 5;
+}
+.Border{
+  line-break: auto 1 ;
+  border-radius: 1rem;
+}
+.Text{
+  text-decoration: line-through;
+    text-decoration-line: line-through;
+    text-decoration-style: solid;
+    text-decoration-color: currentcolor;
+    text-decoration-thickness: auto;
+}
